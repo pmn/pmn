@@ -1,16 +1,16 @@
-### Hi there 👋
+# OH HELLO
 
-<!--
-**pmn/pmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is so exciting! 
 
-Here are some ideas to get you started:
+[Kathy is my favorite person right now](https://github.com/pifafu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't know what else to put here right now, so here's a fun emoji town I [found on the internet](https://emojiart.org/). 
+
+```
+⁣⛅ ☁ ☁  ☁  🚁   ✈
+🏢🏤_🏬_ / |_\🏫🏢🌳🌳
+_____🚋_🚗__🚕______
+🏡⁣🏥🏦  /   |🚖\ 🏠🌳🏡
+🏡🏡🏪 /    | 🚘\ 🏪🏨
+💒 🏨 /     |    \ 🏡🏩
+```
