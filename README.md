@@ -1,5 +1,7 @@
 # OH HELLO
 
+![the internet is p. cool](https://github.com/pmn/pmn/blob/master/coolinternet.gif)
+
 This is so exciting! 
 
 [Kathy is my favorite person right now](https://github.com/pifafu)
